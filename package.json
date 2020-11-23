@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-13-image-finder",
+  "name": "image-finder",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/OlgaPoltavets/goit-js-hw-13-image-finder.git"
   },
+  "keywords": [],
   "author": "Olga",
   "license": "ISC",
   "bugs": {
