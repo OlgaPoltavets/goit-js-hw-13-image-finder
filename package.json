@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/OlgaPoltavets/goit-js-hw-13-image-finder/issues"
   },
-  "homepage": "https://github.com/OlgaPoltavets/goit-js-hw-13-image-finder#readme",
+  "homepage": "https://olgapoltavets.github.io/goit-js-hw-13-image-finder",
   "devDependencies": {
     "@pnotify/core": "^5.1.2",
     "basiclightbox": "^5.0.3",
